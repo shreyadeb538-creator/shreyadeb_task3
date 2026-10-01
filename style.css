@@ -1,0 +1,30 @@
+*{
+    background-color: #B1EDE8;
+}
+.head{
+    color: #340068;
+}
+.highlight{
+    color: red;
+    background-color: #FFFCF9;
+    
+}
+#bglime{
+    background-color: #FFFCF9;
+}
+#para{
+    color:rgb(76, 184, 76)
+}
+.paragraph{
+    color:#340068;
+    font-size: 30px;
+}
+a{
+    background-color:#FF6978 ;
+}
+ ol .blue{
+    color:#39175b;
+}
+ol .red{
+    color:red;
+}
